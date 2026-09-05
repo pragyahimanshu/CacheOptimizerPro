@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<Authors>Pragya Himanshu</Authors>
+		<Company>Pragya Himanshu</Company>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MediatR" />
+	</ItemGroup>
+
+</Project>
