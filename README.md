@@ -175,20 +175,6 @@ Open `http://localhost:5173` in your browser.
 
 ---
 
-## 🧪 Testing
-
-**Unit tests:**
-
-```bash
-dotnet test DistributedCachingSystemWithCacheInvalidation.sln
-```
-
-**Load testing (k6):**
-
-```bash
-k6 run load-tests/loadtest.js
-```
-
 **Manual testing:** Use Swagger/OpenAPI or Postman to create, fetch, and delete a product, then check `/api/metrics` to see the cache hit ratio change.
 
 ---
