@@ -1,0 +1,8 @@
+.vs/
+node_modules/
+bin/
+obj/
+.env
+*.env
+frontend/dist/
+*.user
